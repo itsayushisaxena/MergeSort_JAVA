@@ -1,2 +1,2 @@
 # MergeSort_JAVA
-Yet to be completed
+Merge Sort algorithm(Divide and Conquer) implemented in JAVA.
